@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alexandre Maycon",
+      "email": "alex@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria da Conceição",
+      "email": "mari@gmail.com"
+    },
+    {
+      "name": "John Welligton",
+      "email": "johnws1@gmail.com",
+      "id": 3
+    }
+  ]
+}
